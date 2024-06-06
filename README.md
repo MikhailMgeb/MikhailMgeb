@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👋 HI!</h3>
+<h3 align="left">👋 Hi!</h3>
 
 ###
 
