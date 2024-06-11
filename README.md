@@ -22,7 +22,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,nextjs,nodejs,express,mongodb,webpack,vite,docker,bootstrap,materialui,tailwindcss,npm,vscode,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,nodejs,express,mongodb,webpack,vite,docker,bootstrap,materialui,tailwindcss,npm,vscode,git,github,figma)](https://skillicons.dev)
 
 ###
 
